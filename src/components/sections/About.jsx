@@ -178,7 +178,7 @@ export const About = () => {
                 <div className="hover:-translate-y-1 transition-all">
                   <h4 className="font-semibold" >
                     {" "}
-                    Product Support Engineer <span className=" md:ml-85 text-right">(2023 - Present)</span>
+                    Full Stack Developer <span className=" md:ml-85 text-right">(2023 - Present)</span>
                   </h4>
                   <h4 >
             
@@ -188,21 +188,19 @@ export const About = () => {
                   <div className="p-5 mb-4">
                           <ul className="list-disc list-inside text-gray-300 space-y-2">
                             <li>
-                            Provided advanced technical support and remediation for over 500 software-related issues reported by customers,
-                            achieving a 95% issue resolution rate within SLA timeframes.
+                            Develop and maintain full-stack web applications using React.js, Node.js, Express.js, and MongoDB/MySQL with a
+focus on responsiveness and performance.
                               </li>
                               <li>
-                              Led and mentored a team of product support engineers, ensuring timely and effective resolution of technical
-                              issues.
+                              Collaborate with cross-functional teams, including UI/UX designers and product managers, to deliver user-centric
+features and interfaces.
                               </li>
                               <li>
-                              Managed escalations, troubleshooting complex product-related problems, and providing advanced technical guidance.
+                              Write clean, secure, and well-documented code following best practices, including implementation of authentication
+(JWT/OAuth) and regular code reviews.
                               </li>
 
-                              <li>
-                              Collaborated with development, QA, and product teams to identify and resolve recurring issues, enhancing
-                              product reliability.
-                            </li>
+                              
                               </ul>
                       </div>
 
